@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trevor</h1>
 <h3 align="center">A passionate web developer from Grand Rapids, MI</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **C#/.NET**
 
 - 📫 How to reach me **tmathiak@gmail.com**
 
